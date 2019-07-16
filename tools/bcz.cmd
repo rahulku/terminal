@@ -1,3 +1,5 @@
+test
+
 @echo off
 
 rem bcz - Clean and build the project
