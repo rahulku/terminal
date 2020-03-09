@@ -7,10 +7,10 @@
   * [ColorTool](https://github.com/Microsoft/Terminal/tree/master/src/tools/ColorTool)
   * [Sample projects](https://github.com/Microsoft/Terminal/tree/master/samples) that show how to consume the Windows Console APIs
   
-#### Other related repositories include:
+#### Othe related repositories include:
   * [Console API Documentation](https://github.com/MicrosoftDocs/Console-Docs)
 
-### Build Status
+### Build Sta
 
 Project|Build Status
 ---|---
